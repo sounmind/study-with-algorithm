@@ -6,23 +6,11 @@ function solution(answers) {
 
   const correctArray = answers.reduce(
     function (acc, cur, idx) {
-      if (idx < one.length) {
-        if (cur === one[idx]) acc[0]++;
-      } else {
-        if (cur === one[idx % one.length]) acc[0]++;
-      }
+      if (cur === one[idx % one.length]) acc[0]++;
 
-      if (idx < two.length) {
-        if (cur === two[idx]) acc[1]++;
-      } else {
-        if (cur === two[idx % two.length]) acc[1]++;
-      }
+      if (cur === two[idx % two.length]) acc[1]++;
 
-      if (idx < thr.length) {
-        if (cur === thr[idx]) acc[2]++;
-      } else {
-        if (cur === thr[idx % thr.length]) acc[2]++;
-      }
+      if (cur === thr[idx % thr.length]) acc[2]++;
 
       return acc;
     },
