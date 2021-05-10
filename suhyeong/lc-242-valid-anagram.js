@@ -4,7 +4,6 @@
  * @return {boolean}
  */
 
-// How to make it fast ?
 const countLetters = function (string, object) {
   for (let i = 0; i < string.length; i++) {
     if (object[string[i]]) {
@@ -16,23 +15,19 @@ const countLetters = function (string, object) {
 };
 
 var isAnagram = function (s, t) {
+  if (s.length !== t.length) {
+    return false;
+  }
+
   const sObj = {};
   const tObj = {};
-  let longerObj;
-  let shorterObj;
-
-  if (s.length < t.length) {
-    [longerObj, shorterObj] = [tObj, sObj];
-  } else {
-    [longerObj, shorterObj] = [sObj, tObj];
-  }
 
   countLetters(s, sObj);
   countLetters(t, tObj);
 
-  for (const key in longerObj) {
-    if (longerObj.hasOwnProperty(key)) {
-      if (longerObj[key] !== shorterObj[key]) {
+  for (const key in sObj) {
+    if (sObj.hasOwnProperty(key)) {
+      if (sObj[key] !== tObj[key]) {
         return false;
       }
     }
@@ -40,6 +35,6 @@ var isAnagram = function (s, t) {
   return true;
 };
 
-// console.log(isAnagram("anagram", "nagaram")); // same length
-// console.log(isAnagram("rat", "cat")); // same length
+console.log(isAnagram("anagram", "nagaram")); // same length
+console.log(isAnagram("rat", "cat")); // same length
 console.log(isAnagram("a", "ab")); // different length
