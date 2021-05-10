@@ -3,22 +3,43 @@
  * @param {string} t
  * @return {boolean}
  */
+
+// How to make it fast ?
+const countLetters = function (string, object) {
+  for (let i = 0; i < string.length; i++) {
+    if (object[string[i]]) {
+      object[string[i]] += 1;
+    } else {
+      object[string[i]] = 1;
+    }
+  }
+};
+
 var isAnagram = function (s, t) {
-  sArray = Array.from(s);
-  tArray = Array.from(t);
+  const sObj = {};
+  const tObj = {};
+  let longerObj;
+  let shorterObj;
 
-  sArray.sort();
-  tArray.sort();
+  if (s.length < t.length) {
+    [longerObj, shorterObj] = [tObj, sObj];
+  } else {
+    [longerObj, shorterObj] = [sObj, tObj];
+  }
 
-  sortedS = sArray.join("");
-  sortedT = tArray.join("");
+  countLetters(s, sObj);
+  countLetters(t, tObj);
 
-  for (let i = 0; i < Math.max(sortedS.length, sortedT.length); i++) {
-    if (sortedS[i] !== sortedT[i]) {
-      return false;
+  for (const key in longerObj) {
+    if (longerObj.hasOwnProperty(key)) {
+      if (longerObj[key] !== shorterObj[key]) {
+        return false;
+      }
     }
   }
   return true;
 };
 
-console.log(isAnagram("anagram", "nagaram"));
+// console.log(isAnagram("anagram", "nagaram")); // same length
+// console.log(isAnagram("rat", "cat")); // same length
+console.log(isAnagram("a", "ab")); // different length
