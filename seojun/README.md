@@ -10,3 +10,5 @@
 - [remove-duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [remove-element](https://leetcode.com/problems/remove-element)
 - [length-of-last-word](https://leetcode.com/problems/length-of-last-word)
+- [running-sum](https://leetcode.com/problems/running-sum-of-1d-array)
+- [average](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)
