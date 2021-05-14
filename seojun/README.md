@@ -12,3 +12,8 @@
 - [length-of-last-word](https://leetcode.com/problems/length-of-last-word)
 - [running-sum](https://leetcode.com/problems/running-sum-of-1d-array)
 - [average](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)
+- [defang-IP-address](https://leetcode.com/problems/defanging-an-ip-address/)
+- [max-wealth](https://leetcode.com/problems/richest-customer-wealth/)
+- [goal-parser](https://leetcode.com/problems/goal-parser-interpretation/)
+- [total-moeny](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)
+- [sum-of-unique](https://leetcode.com/problems/sum-of-unique-elements/)
