@@ -19,3 +19,4 @@
 - [sum-of-unique](https://leetcode.com/problems/sum-of-unique-elements/)
 - [second-highest](https://leetcode.com/problems/second-largest-digit-in-a-string/)
 - [square-is-white](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
+- [truncate=sentence](https://leetcode.com/problems/truncate-sentence/)
