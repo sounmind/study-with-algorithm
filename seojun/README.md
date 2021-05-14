@@ -15,5 +15,7 @@
 - [defang-IP-address](https://leetcode.com/problems/defanging-an-ip-address/)
 - [max-wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [goal-parser](https://leetcode.com/problems/goal-parser-interpretation/)
-- [total-moeny](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)
+- [total-money](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)
 - [sum-of-unique](https://leetcode.com/problems/sum-of-unique-elements/)
+- [second-highest](https://leetcode.com/problems/second-largest-digit-in-a-string/)
+- [square-is-white](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
