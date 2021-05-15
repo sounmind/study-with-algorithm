@@ -20,15 +20,3 @@ function solution(participant, completion) {
   return answer;
 }
 
-var solution = (_, $) =>
-  _.find(
-    _ => !$[_]--,
-    $.map(_ => ($[_] = ($[_] | 0) + 1))
-  );
-
-let 완주하지못한선수 = solution(
-  ["marina", "josipa", "nikola", "vinko", "filipa"],
-  ["josipa", "filipa", "marina", "nikola"]
-);
-
-console.log(완주하지못한선수);
