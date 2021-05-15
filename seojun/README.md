@@ -22,3 +22,5 @@
 - [truncate=sentence](https://leetcode.com/problems/truncate-sentence/)
 - [kids-with-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [num-identical-pairs](https://leetcode.com/problems/number-of-good-pairs/)
+- [subtract-product-sum](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+- [fund-special-integer](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
