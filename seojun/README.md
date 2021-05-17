@@ -26,3 +26,5 @@
 - [fund-special-integer](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
 - [shuffle](https://leetcode.com/problems/shuffle-the-array/)
 - [trim-mean](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)
+- [create-target-array](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+- [find-lucky](https://leetcode.com/problems/find-lucky-integer-in-an-array/) hash table
