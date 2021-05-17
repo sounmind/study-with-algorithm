@@ -24,3 +24,5 @@
 - [num-identical-pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [subtract-product-sum](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [fund-special-integer](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
+- [shuffle](https://leetcode.com/problems/shuffle-the-array/)
+- [trim-mean](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)
