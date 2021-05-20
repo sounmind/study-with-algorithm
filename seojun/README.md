@@ -28,3 +28,5 @@
 - [trim-mean](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)
 - [create-target-array](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 - [find-lucky](https://leetcode.com/problems/find-lucky-integer-in-an-array/) hash table
+- [frequency-sort](https://leetcode.com/problems/sort-array-by-increasing-frequency/) hash sort
+- [array-string-equal](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
