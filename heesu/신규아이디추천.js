@@ -1,5 +1,4 @@
 function solution(newID) {
-
   let ID = newID
     .toLowerCase()
     .replace(/[^\w.-]/g, "")
@@ -7,7 +6,7 @@ function solution(newID) {
     .replace(/^\.|\.$/, "")
     .padEnd(1, "a")
     .slice(0, 15)
-    .replace(/\.$/g,"")
+    .replace(/\.$/g, "");
 
-  return ID.padEnd(3, ID[ID.length - 1])
+  return ID.padEnd(3, ID[ID.length - 1]);
 }
