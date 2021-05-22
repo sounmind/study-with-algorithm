@@ -30,3 +30,5 @@
 - [find-lucky](https://leetcode.com/problems/find-lucky-integer-in-an-array/) hash table
 - [frequency-sort](https://leetcode.com/problems/sort-array-by-increasing-frequency/) hash sort
 - [array-string-equal](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+- [merge](https://leetcode.com/problems/merge-sorted-array/)
+- [count-matches](https://leetcode.com/problems/count-items-matching-a-rule/)
