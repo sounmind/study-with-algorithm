@@ -32,3 +32,6 @@
 - [array-string-equal](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [merge](https://leetcode.com/problems/merge-sorted-array/)
 - [count-matches](https://leetcode.com/problems/count-items-matching-a-rule/)
+- [check-if-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+- [sum-base](https://leetcode.com/problems/sum-of-digits-in-base-k/)
+- [sort-sentence](https://leetcode.com/problems/sorting-the-sentence/)
