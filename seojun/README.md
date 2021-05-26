@@ -35,3 +35,9 @@
 - [check-if-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 - [sum-base](https://leetcode.com/problems/sum-of-digits-in-base-k/)
 - [sort-sentence](https://leetcode.com/problems/sorting-the-sentence/)
+
+### Linked-list
+- [delete-node](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+- [remove-elements](https://leetcode.com/problems/remove-linked-list-elements/)
+- [reverse-list](https://leetcode.com/problems/reverse-linked-list/)
+- [check-palindrome](https://leetcode.com/problems/palindrome-linked-list/)
