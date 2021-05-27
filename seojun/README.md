@@ -41,3 +41,10 @@
 - [remove-elements](https://leetcode.com/problems/remove-linked-list-elements/)
 - [reverse-list](https://leetcode.com/problems/reverse-linked-list/)
 - [check-palindrome](https://leetcode.com/problems/palindrome-linked-list/)
+
+### Hash
+
+### tree
+- [binary-search](https://leetcode.com/problems/binary-search/)
+- [range-sum-BST](https://leetcode.com/problems/range-sum-of-bst/)
+- [inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
