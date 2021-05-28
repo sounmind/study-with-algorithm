@@ -44,13 +44,15 @@
 - [has-cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [get-intersection-node](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [get-decimal-value](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+- [delete-duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
-### Hash
+### Hash Table
 - [design-hashset](https://leetcode.com/problems/design-hashset/)
-- [design-hashset](https://leetcode.com/problems/design-hashset/)
+- [num-jewels-in-stones](https://leetcode.com/problems/jewels-and-stones/)
+- [smaller-num-than-current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
 ### tree
 - [binary-search](https://leetcode.com/problems/binary-search/)
 - [range-sum-BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [search-BST](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- [search-BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) *
