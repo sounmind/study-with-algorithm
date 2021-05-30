@@ -58,3 +58,5 @@
 - [range-sum-BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [search-BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) *
+- [get-min-diff](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) *
+- [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/) *
