@@ -50,6 +50,8 @@
 - [design-hashset](https://leetcode.com/problems/design-hashset/)
 - [num-jewels-in-stones](https://leetcode.com/problems/jewels-and-stones/)
 - [smaller-num-than-current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+- [unique-occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+- [intersection](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 ### tree
 - [binary-search](https://leetcode.com/problems/binary-search/)
