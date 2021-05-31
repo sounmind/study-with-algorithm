@@ -60,3 +60,4 @@
 - [search-BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) *
 - [get-min-diff](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) *
 - [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/) *
+- [post-order-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
