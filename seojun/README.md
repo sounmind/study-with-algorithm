@@ -50,9 +50,13 @@
 - [design-hashset](https://leetcode.com/problems/design-hashset/)
 - [num-jewels-in-stones](https://leetcode.com/problems/jewels-and-stones/)
 - [smaller-num-than-current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+- [unique-occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+- [intersection](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 ### tree
 - [binary-search](https://leetcode.com/problems/binary-search/)
 - [range-sum-BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [search-BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) *
+- [get-min-diff](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) *
+- [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/) *
