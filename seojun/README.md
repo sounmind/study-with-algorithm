@@ -35,6 +35,8 @@
 - [check-if-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 - [sum-base](https://leetcode.com/problems/sum-of-digits-in-base-k/)
 - [sort-sentence](https://leetcode.com/problems/sorting-the-sentence/)
+- [find-max-consecutive](https://leetcode.com/problems/max-consecutive-ones/)
+- [distribute-candies](https://leetcode.com/problems/distribute-candies/)
 
 ### Linked-list
 - [delete-node](https://leetcode.com/problems/delete-node-in-a-linked-list/)
@@ -61,3 +63,4 @@
 - [get-min-diff](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) *
 - [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/) *
 - [post-order-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
