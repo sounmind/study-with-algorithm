@@ -10,3 +10,4 @@
 |Programmers|내적|2021-05-30|https://github.com/sounmind/study-with-algorithm/blob/main/eunbin/neajuck.js|
 |Programmers|키패드 누르기|2021-05-31|https://github.com/sounmind/study-with-algorithm/blob/main/eunbin/pushKeypad.js|
 |Programmers|체육복|2021-06-02|https://euncoding.tistory.com/42|
+|Programmers|완주하지 못한 선수|2021-06-03|https://euncoding.tistory.com/42|
