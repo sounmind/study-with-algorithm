@@ -37,6 +37,8 @@
 - [sort-sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [find-max-consecutive](https://leetcode.com/problems/max-consecutive-ones/)
 - [distribute-candies](https://leetcode.com/problems/distribute-candies/)
+- [repeated-N-times](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+- [find-kth-positive](https://leetcode.com/problems/kth-missing-positive-number/)
 
 ### Linked-list
 - [delete-node](https://leetcode.com/problems/delete-node-in-a-linked-list/)
