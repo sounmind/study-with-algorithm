@@ -66,7 +66,7 @@ function solution(new_id) {
 function solution(new_id) {
     const answer = new_id
         .toLowerCase() // 1
-        .replace(/[^\w-_.]/g, '') // 2
+        .replace(/[^\w-_.]/g, '') // 2ㅕ
         .replace(/\.+/g, '.') // 3
         .replace(/^\.|\.$/g, '') // 4
         .replace(/^$/, 'a') // 5
