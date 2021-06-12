@@ -1,18 +1,30 @@
-function solution(n, m) {
-  const greatest = greatestCommonFactor(n, m);
-  // return answer;
-}
+function solution(lottos, win_nums) {
+  const winRate = {
+    "0" : 6,
+    "1" : 6,
+    "2" : 5,
+    "3" : 4,
+    "4" : 3,
+    "5" : 2,
+    "6" : 1,
+  }
 
-function greatestCommonFactor(n, m) {
-  if (n - m > 0) {
+  let highRate = 0;
+  let lowRate = 0;
 
-  } else {
-    let rest = m % n;
+  for (let item of lottos) {
+    if (item === 0) {
+      highRate++;
+      continue;
+    }
 
-    if (rest === 0) {
-      return n;
+    if (win_nums.indexOf(item) >= 0) {
+      lowRate++;
+      highRate++;
     }
   }
+
+  return [winRate[highRate], winRate[lowRate]];
 }
 
-solution(3, 12);
+solution([44, 1, 0, 0, 31, 25], [31, 10, 45, 1, 6, 19]);
