@@ -49,6 +49,7 @@
 - [get-intersection-node](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [get-decimal-value](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 - [delete-duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [merge-two-lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 ### Hash Table
 - [design-hashset](https://leetcode.com/problems/design-hashset/)
@@ -66,3 +67,4 @@
 - [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/) *
 - [post-order-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+  
