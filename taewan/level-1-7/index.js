@@ -1,8 +1,3 @@
 function solution(arr1, arr2) {
-  console.log(arr1, arr2);
-  console.log(arr1.concat());
-  var answer = [[]];
-  return answer;
+  return arr1.map((e,i) => arr2[i].map((v,j) => arr1[i][j]+arr2[i][j]))
 }
-
-solution([[1,2],[2,3]], [[3,4],[5,6]]);
