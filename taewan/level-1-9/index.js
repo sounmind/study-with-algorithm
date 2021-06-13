@@ -1,14 +1,8 @@
-function solution(x) {
-    let valueString = String(x);
-    let sumValue = 0;
-    let rest = 0;
+function solution(arr) {
+  let sum = arr.reduce((prev, curr) => prev + curr);
+  let result = sum / arr.length;
 
-    for (let i = 0; i < valueString.length; i++) {
-        sumValue += parseInt(valueString[i]);
-    }
-
-    rest = x % sumValue;
-
-    if (rest) return false;
-    else return true;
+  return result;
 }
+
+solution([1,2,3,4]);
