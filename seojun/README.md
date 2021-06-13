@@ -39,6 +39,11 @@
 - [distribute-candies](https://leetcode.com/problems/distribute-candies/)
 - [repeated-N-times](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 - [find-kth-positive](https://leetcode.com/problems/kth-missing-positive-number/)
+- [sorted-square](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [sum-even-after-queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
+- [add-to-array-form](https://leetcode.com/problems/add-to-array-form-of-integer/)
+- [max-product](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+- [is-path-crossing](https://leetcode.com/problems/path-crossing/)
 
 ### Linked-list
 - [delete-node](https://leetcode.com/problems/delete-node-in-a-linked-list/)
@@ -57,6 +62,7 @@
 - [smaller-num-than-current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [unique-occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 - [intersection](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [can-be-equal](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
 
 ### tree
 - [binary-search](https://leetcode.com/problems/binary-search/)
@@ -67,4 +73,4 @@
 - [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/) *
 - [post-order-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-  
+- [is-unival-tree](https://leetcode.com/problems/univalued-binary-tree/)
