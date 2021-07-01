@@ -1,3 +1,4 @@
+//내코드
 function solution(board, moves) {
   const basket = [];
   let breakCount = 0;
@@ -23,6 +24,36 @@ function solution(board, moves) {
 
   return breakCount;
 }
+// 다른사람 코드
+// const transpose = matrix =>
+//   matrix.reduce((result, row) => {
+//     return row.map((_, i) => {
+//       let a = [...(result[i] || []), row[i]];
+//       return a;
+//     });
+//   }, []);
+
+// const solution = (board, moves) => {
+//   const stacks = transpose(board).map(row =>
+//     row.reverse().filter(el => el !== 0)
+//   );
+
+//   const basket = [];
+//   let result = 0;
+
+//   for (const move of moves) {
+//     const pop = stacks[move - 1].pop();
+//     if (!pop) continue;
+//     if (pop === basket[basket.length - 1]) {
+//       basket.pop();
+//       result += 2;
+//       continue;
+//     }
+//     basket.push(pop);
+//   }
+
+//   return result;
+// };
 
 let a = solution(
   [
@@ -34,3 +65,4 @@ let a = solution(
   ],
   [1, 5, 3, 5, 1, 2, 1, 4]
 );
+
