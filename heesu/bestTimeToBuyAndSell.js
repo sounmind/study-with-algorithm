@@ -4,17 +4,15 @@
  */
  var maxProfit = function(prices) {
   let result = 0;
-  let small = prices[0];
-  
-  for (let i = 1; i < prices.length; i++) {
-      if (prices[i] < small) {
-          small = prices[i]
+  let min = prices[0];
 
-      } else {
-          if (prices[i] - small > result) {
-          result = prices[i] - small
-      }
-      }
-  }
+   for (let i = 1; i < prices.length; i++) {
+     min = Math.min(prices[i], min)
+     result = Math.max(result, prices[i] - min)
+   }
   return result;
-};
+ };
+
+const answer = maxProfit([7, 1, 3, 2, 6, 3, 8]);
+
+console.log(answer);
